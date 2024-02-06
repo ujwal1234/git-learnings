@@ -13,4 +13,11 @@
 1. moving the account to local to remote 
 2. we need to have the github actions 
 3. we need to have github account set up in intelliji 
-4. 
+
+
+git pull 
+git branches 
+git adding new features
+Git add comments 
+git commit
+git push origin feature branch
