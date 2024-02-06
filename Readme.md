@@ -18,3 +18,6 @@
 git pull 
 git branches 
 git adding new features
+Git add comments 
+git commit
+git push origin feature branch
